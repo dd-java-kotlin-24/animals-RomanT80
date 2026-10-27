@@ -1,14 +1,13 @@
-[//]: # (TODO Replace {project name} placeholder as appropriate; then, delete this line.)
-# {project name}
+
+# Animals
 
 ## Repository
 
-This repository holds Java and Kotlin code written in full or partial completion of an assignment or in-class exercise of the [Deep Dive](https://deepdivecoding.com/) Java and Kotlin training programs.
+This repository holds Java and Kotlin code written in full or partial completion of an assignment or 
+in-class exercise of the [Deep Dive](https://deepdivecoding.com/) Java and Kotlin training programs.
 
 ## Project summary
-
-[//]: # (TODO Replace {project summary} placeholder as appropriate; then, delete this line.)
-{project summary}
+An exploration of animal classification and behavior. along with a focus on machine learning and natural language processing techniques.
 
 ## Credits, copyrights, and license information
 
